@@ -32,15 +32,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiyushSharma2357/PiyushSharma2357/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiyushSharma2357/PiyushSharma2357/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PiyushSharma2357/PiyushSharma2357/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PiyushSharma2357.PiyushSharma2357&"  />
 </div>
 
